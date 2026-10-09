@@ -27,7 +27,7 @@ Der Zusammenhang zwischen Eisverkäufen und Badetoten ist eine Korrelation, aber
 
 Für Data Science ist dieser Unterschied wichtig, da Modelle häufig Korrelationen erkennen, ohne tatsächliche Ursache-Wirkungs-Beziehungen nachweisen zu können.
 
-# 4. Train-Test-Split:
+# 4. Train-Test-Split
 Siehe Abgabe im Repository unter train test split.ipynb
 
 # 5. Kognitive Verzerrungen

@@ -1,3 +1,5 @@
+Author: Hadis Fayz, BSc
+
 # 1. Reinforcement Learning
 Reinforcement Learning ist ein Lernverfahren, bei dem ein Agent durch Belohnungen und Bestrafungen lernt, optimale Entscheidungen zu treffen.
 
